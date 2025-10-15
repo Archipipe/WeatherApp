@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_default">#37393B</color>
+
+    <color name="thunderstorm_day">#423F5D</color>
+    <color name="thunderstorm_night">#0F1950</color>
+
+    <color name="drizzle_day">#00B2D5</color>
+    <color name="drizzle_night">#032E59</color>
+
+    <color name="rainy_day">#1781C4</color>
+    <color name="rainy_night">#1F325D</color>
+
+    <color name="snowy_day">#D4E6F0</color>
+    <color name="snowy_night">#334562</color>
+
+    <color name="fog_day">#AFBAB8</color>
+    <color name="fog_night">#838282</color>
+
+    <color name="dust_day">#ACB7B5</color>
+    <color name="dust_night">#442007</color>
+
+    <color name="clear_day">#129DF2</color>
+    <color name="clear_night">#0A1A2F</color>
+
+    <color name="cloudy_day">#ACC2D9</color>
+    <color name="cloudy_night">#56626F</color>
+</resources>
